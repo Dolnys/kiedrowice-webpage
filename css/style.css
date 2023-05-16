@@ -371,6 +371,10 @@
   padding-top: 0;
 }
 
+.boat-background {
+  background-color: #27272745;
+}
+
 /*** Team ***/
 .team-item {
   position: relative;
