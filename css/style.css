@@ -207,17 +207,17 @@
 }
 
 .page-header {
-  background: url(/img/gallery_main.jpg) center center no-repeat;
+  background: url(/img/banners/gallery_main.webp) center center no-repeat;
   background-size: cover;
 }
 
 .page-header-offer {
-  background: url(/img/gallery_main.jpg) center center no-repeat;
+  background: url(/img/banners/offer.webp) center center no-repeat;
   background-size: cover;
 }
 
 .page-header-contact {
-  background: url(/img/gallery_main.jpg) center center no-repeat;
+  background: url(/img/banners/contact.jpg) center center no-repeat;
   background-size: cover;
 }
 
