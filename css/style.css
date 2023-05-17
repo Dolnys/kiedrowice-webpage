@@ -5,7 +5,16 @@
   --light: #f7f7f7;
   --dark: #404a3d;
 }
+.bed {
+  height: 50px;
+  color: #ffffff;
+}
 
+.plus {
+  font-size: 25px;
+  font-weight: 700;
+  color: #000;
+}
 .back-to-top {
   position: fixed;
   display: none;
