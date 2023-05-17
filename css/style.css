@@ -5,6 +5,8 @@
   --light: #f7f7f7;
   --dark: #404a3d;
 }
+
+/* additional */
 .bed {
   height: 50px;
   color: #ffffff;
@@ -19,6 +21,16 @@
 .logo {
   height: 75px;
 }
+
+.bg-primary {
+  background-color: #5b8c51;
+}
+
+.bg-secondary {
+  background-color: #eddd5e;
+}
+
+/* end additional */
 
 .back-to-top {
   position: fixed;
