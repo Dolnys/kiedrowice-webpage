@@ -1,4 +1,4 @@
-# Kiedrowice Rental House Website
+## [KIEDROWICE RENT HOUSE](https://kiedrowice.netlify.app/)
 
 Welcome to the Kiedrowice Rental House Website project! This website showcases an example of a house rental listing in an attractive location. 
 It has been created using HTML, CSS, JavaScript, and Bootstrap. It provides a responsive layout and includes features such as a carousel and subpages.
